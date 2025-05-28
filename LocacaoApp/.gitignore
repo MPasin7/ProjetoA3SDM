@@ -1,1 +1,3 @@
 modeloapp/__pycache__/
+/apps/endereco/__pycache__/*
+/apps/endereco/migrations/*
