@@ -45,6 +45,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'endereco.apps.EnderecoConfig',
     'cliente.apps.ClienteConfig',
+    'CategoriaVeiculo.apps.CategoriaVeiculoConfig',
+    'veiculo.apps.VeiculoConfig',
 
 ]
 

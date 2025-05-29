@@ -11,7 +11,7 @@ class Cliente(models.Model):
     endereco = models.ForeignKey(EnderecoM, on_delete=models.CASCADE)
 
     class Meta:
-        verbose_name = 'Cliente'
+        verbose_name = 'Cliente' 
         verbose_name_plural = 'Clientes'
         ordering = ['nome']
 

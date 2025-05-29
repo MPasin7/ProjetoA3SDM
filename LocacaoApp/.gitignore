@@ -3,3 +3,7 @@ modeloapp/__pycache__/
 /apps/endereco/migrations/*
 /apps/cliente/__pycache__/*
 /apps/cliente/migrations/*
+/apps/CategoriaVeiculo/__pycache__/*
+/apps/CategoriaVeiculo/migrations/*
+/apps/veiculo/__pycache__/*
+/apps/veiculo/migrations/*
